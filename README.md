@@ -24,9 +24,6 @@ You have finally discovered my Github profile. <br>
 </br>
 </br>
 
-
----
-
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/arpit-chauhan-303194191/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
