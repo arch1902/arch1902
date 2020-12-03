@@ -19,29 +19,25 @@ You have finally discovered my Github profile. <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arch1902&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="arch1902's Github Stats">
 
-![counter](https://enek7xym5r4126.m.pipedream.net)
+
 </br>
 </br>
 
 
 ---
 
-
-<i>Follow me around the web:</i><br>
-<!--
-  < <a target="_blank" href="https://www.linkedin.com/in/arpit-chauhan-303194191/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/arpitchauhan__/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/arpit.chauhan.737448">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
-  
-
-<a href="https://www.linkedin.com/in/arpit-chauhan-303194191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/arpitchauhan__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/arpit.chauhan.737448" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://www.linkedin.com/in/arpit-chauhan-303194191/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/arpit.chauhan.737448"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/arpitchauhan__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/rpitchauhan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/arpit-chauhan-303194191/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/arpitchauhan__/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/arpit.chauhan.737448)-->
+
 
 
 
