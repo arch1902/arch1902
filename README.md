@@ -27,10 +27,10 @@ You have finally discovered my Github profile. <br>
 
 
 <i>Follow me around the web:</i><br>
-
+<!--
   < <a target="_blank" href="https://www.linkedin.com/in/arpit-chauhan-303194191/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/arpitchauhan__/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/arpit.chauhan.737448">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://www.facebook.com/arpit.chauhan.737448">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
   
 
 <a href="https://www.linkedin.com/in/arpit-chauhan-303194191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
