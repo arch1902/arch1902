@@ -29,6 +29,17 @@ You have finally discovered my Github profile. <br>
 	<a href="https://www.instagram.com/arpitchauhan__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/rpitchauhan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+	
+<br />
+
+### About Me 🚀
+🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+
+![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arch1902&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Arpit's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch1902&layout=compact&langs_count=8)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arch1902.arch1902)
 
 
 </div>
