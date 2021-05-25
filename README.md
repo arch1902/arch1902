@@ -31,6 +31,26 @@ You have finally discovered my Github profile. <br>
 </p>
 	
 <br />
+	
+### Now Playing 🎧
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/31znjer4g4qcjhh5s4sztitpacta)
+<br/>
+---
+### Github Stats
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
+<p align="center">
+  <a href="https://github.com/arch1902">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arch1902&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch1902&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+</p>
 
 
 
