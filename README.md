@@ -33,10 +33,7 @@ You have finally discovered my Github profile. <br>
 <br />
 
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arch1902&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Arpit's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch1902&layout=compact&langs_count=8)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arch1902.arch1902)
+
 
 
 </div>
