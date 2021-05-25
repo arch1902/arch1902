@@ -31,9 +31,7 @@ You have finally discovered my Github profile. <br>
 </p>
 	
 <br />
-	
-### Now Playing 🎧
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/31znjer4g4qcjhh5s4sztitpacta)
+
 <br/>
 ---
 ### Github Stats
