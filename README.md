@@ -32,9 +32,6 @@ You have finally discovered my Github profile. <br>
 	
 <br />
 
-<br/>
----
-### Github Stats
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
 <p align="center">
@@ -47,7 +44,7 @@ You have finally discovered my Github profile. <br>
 ##
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+  <img src="https://profile-counter.glitch.me/arch1902/count.svg" />
 </p>
 
 
