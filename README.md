@@ -27,7 +27,7 @@ You have finally discovered my Github profile. <br>
 	<a href="https://www.linkedin.com/in/arpit-chauhan-303194191/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/arpit.chauhan.737448"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/arpitchauhan__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/rpitchauhan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+<!-- 	<a href="https://twitter.com/rpitchauhan"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="Twitter"/></a> -->
 </p>
 	
 <br />
