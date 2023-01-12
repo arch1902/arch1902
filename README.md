@@ -29,17 +29,15 @@ You have finally discovered my Github profile. <br>
 	<a href="https://www.instagram.com/arpitchauhan__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <!-- 	<a href="https://twitter.com/rpitchauhan"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="Twitter"/></a> -->
 </p>
-	
-<br />
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/arch1902">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arch1902&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch1902&count_private=true&hide=html,css,Makefile,Jupyter%20Notebook&layout=compact&langs_count=10&theme=algolia"/>
   </a>
-</p>
+</p> -->
 
 ##
 <p align="center"> 
